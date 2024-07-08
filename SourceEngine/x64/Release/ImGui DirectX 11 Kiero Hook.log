@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  Aimbot.obj : znaleziono moduł .netmodule MSIL lub moduł skompilowany z opcją /GL; konsolidowanie zostanie rozpoczęte ponownie z opcją /LTCG; dodaj opcję /LTCG do wiersza polecenia konsolidacji w celu podwyższenia wydajności konsolidatora
+  Trwa generowanie kodu
+  Zakończono generowanie kodu
+detours.lib(detours.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "detours.lib(detours.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
+detours.lib(disasm.obj) : warning LNK4099: nie znaleziono pliku PDB "" z elementem "detours.lib(disasm.obj)" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\szef\Desktop\Nowy folder\dowberinternal.dll
